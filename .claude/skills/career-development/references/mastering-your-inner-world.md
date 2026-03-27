@@ -1,5 +1,5 @@
-Category 1: Mastering Your Inner World (The Foundation)
-This category focuses on the psychological barriers that originate within the mind, such as the inner critic, imposter syndrome, and cognitive distortions.
+Mastering Your Inner World (The Foundation)
+Focuses on the psychological barriers that originate within the mind, such as the inner critic, imposter syndrome, and cognitive distortions.
 Key Takeaways:
 Identify the Archetype: There are five main inner critics: the Classic Judge (criticizes decisions), the Victim (promotes powerlessness), the Protector (prevents risk-taking), the Ringmaster (demands constant productivity), and the Neglector (prioritizes others' needs over your own)
 .
