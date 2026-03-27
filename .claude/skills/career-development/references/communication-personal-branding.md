@@ -1,5 +1,5 @@
 Communication & Personal Branding (The Visibility)
-This category highlights how to project competence and build a reputable brand through first impressions and interpersonal skills.
+Highlights how to project competence and build a reputable brand through first impressions and interpersonal skills.
 Key Takeaways:
 Warmth and Competence: In first encounters, people judge you first on warmth (trust) and then on competence (respect)
 . Authenticity is key; seeking positive qualities in others naturally makes you appear warmer
