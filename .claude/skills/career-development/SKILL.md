@@ -68,8 +68,8 @@ Focus: Protect attention, sustain energy, and maintain consistent execution.
 
 --- 
 # References:
-   ./reference/communication-personal-branding.md
-   ./reference/mastering-your-inner-world.md
-   ./reference/emotional-resilience.md
-   ./reference/strategic-advancement-leadership.md
+- **communication-personal-branding**: ./reference/communication-personal-branding.md
+- **mastering-your-inner-world**: ./reference/mastering-your-inner-world.md
+- **emotional-resilience**: ./reference/emotional-resilience.md
+- **strategic-advancement-leadership**: ./reference/strategic-advancement-leadership.md
 
