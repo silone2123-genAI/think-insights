@@ -3,18 +3,17 @@ name: think-like-a-boss
 description: A mental operating system for consistent execution, disciplined decision-making, and high-performance thinking based on proven leadership principles 
 ---
 
-# When to Use This Skill
+## When to Use This Skill
 Use this skill when the user asks about
-   Building discipline, consistency, or better habits
-   Overcoming p rocrastination, fear, or perfectionism
-   Making better decisions under pressure or uncertainty
-   Improving leadership, accountability, or team standards
-   Scaling a business, career, or personal performance
-   Developing resilience after failure or setbacks
-   Focusing on high-leverage work and eliminating distractions 
----
+ - Building discipline, consistency, or better habits
+ - Overcoming p rocrastination, fear, or perfectionism
+ - Making better decisions under pressure or uncertainty
+ - Improving leadership, accountability, or team standards
+ - Scaling a business, career, or personal performance
+ - Developing resilience after failure or setbacks
+ - Focusing on high-leverage work and eliminating distractions 
 
-# Think Like a Boss
+## Think Like a Boss
 
 This philosophy is built on a simple premise: extraordinary outcomes come from ordinary actions executed with relentless consistency. Success is not about intensity or inspiration—it’s about disciplined repetition of fundamentals.
 
