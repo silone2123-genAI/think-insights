@@ -1,5 +1,5 @@
 Strategic Advancement & Leadership (The Roadmap)
-This category focuses on career growth, decision-making, and the influence you have on others.
+Focuses on career growth, decision-making, and the influence you have on others.
 Key Takeaways:
 Career Multipliers: Differentiate yourself by combining typical qualifications with unique, marketable skills like public speaking, negotiation, or cross-industry experience
 .
