@@ -1,5 +1,5 @@
 Emotional Resilience & Navigating Change (The Engine)
-This category addresses how to manage stress, burnout, and the physiological responses to a fast-paced work environment.
+Addresses how to manage stress, burnout, and the physiological responses to a fast-paced work environment.
 Key Takeaways:
 Cognitive Appraisal: Your body’s reaction to change depends on how you explain it to yourself; viewing change as a threat triggers stress hormones like cortisol, while viewing it as an opportunity releases adrenaline that boosts oxygen and creativity
 .
