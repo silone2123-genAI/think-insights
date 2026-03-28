@@ -1,12 +1,10 @@
-
 ---
 name: learning-tips
-description: Mental models and contrarian ideas for learning faster, thinking clearly, and managing motivation without relying on rigid systems.
+description: Mental models and contrarian ideas for learning faster, thinking clearly, and managing motivation without relying on rigid systems. Use this skill when the user asks about learning new subjects, studying techniques, or improving retention; how to structure or approach complex topics; productivity, focus, procrastination, or time management struggles; burnout, lack of motivation, or inconsistent work habits; overcoming mental blocks, fear, or avoidance of tasks; rethinking discipline, consistency, or self-control; challenging negative beliefs or self-perception; optimizing schedules based on energy and attention; whether to quit, persist, or reevaluate a path; book recommendations or how to learn from reading (including rereading vs new reading); making better decisions using clearer thinking or perspective shifts.
 ---
 
 ## When to Use This Skill
 Use this skill when the user asks about
- - Use this skill when the user asks about
  - Learning new subjects, studying techniques, or improving retention
  - How to structure or approach complex topics
  - Productivity, focus, procrastination, or time management struggles
